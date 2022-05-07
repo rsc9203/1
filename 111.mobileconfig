@@ -32,13 +32,13 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>192.168.1.10</string>
+			<string>10.74.1.26</string>
 			<key>ProxyServerPort</key>
 			<integer>1234</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
-			<string>Dennis' Wifi</string>
+			<string>Dennis' wifi</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
